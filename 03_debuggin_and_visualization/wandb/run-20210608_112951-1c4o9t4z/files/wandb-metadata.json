@@ -1,0 +1,22 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.5",
+    "heartbeatAt": "2021-06-08T09:29:52.578266",
+    "startedAt": "2021-06-08T09:29:51.035089",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/sofiebach/Documents/8. semester/MLOps/dtu_mlops/03_debuggin_and_visualization/training_file_wandb.py",
+    "codePath": "03_debuggin_and_visualization/training_file_wandb.py",
+    "git": {
+        "remote": "https://github.com/sofiebach/dtu_mlops.git",
+        "commit": "c5ded97415f27eaeaf07d5e2088cfb99578cd5ff"
+    },
+    "email": "70587917+sofiebach@users.noreply.github.com",
+    "root": "/Users/sofiebach/Documents/8. semester/MLOps/dtu_mlops",
+    "host": "MacBook-Pro-3.local",
+    "username": "sofiebach",
+    "executable": "/Users/sofiebach/opt/anaconda3/envs/MLOpsEnv/bin/python"
+}

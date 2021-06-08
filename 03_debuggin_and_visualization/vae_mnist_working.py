@@ -10,11 +10,12 @@ from torchvision.utils import save_image
 from torchvision.datasets import MNIST
 import torchvision.transforms as transforms
 from torch.utils.data import DataLoader
-
+import cProfile
+import re
 
 # Model Hyperparameters
 dataset_path = '~/datasets'
-cuda = True
+cuda = False
 DEVICE = torch.device("cuda" if cuda else "cpu")
 batch_size = 100
 x_dim  = 784
